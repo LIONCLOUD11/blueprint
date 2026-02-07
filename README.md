@@ -29,7 +29,7 @@ reliable, and streamlined installation experience.
 Run this command to automatically install ALL blueprints:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/blueprint-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/LIONCLOUD11/blueprint/main/blueprint-installer.sh)
 ```
 
 ------------------------------------------------------------
@@ -39,7 +39,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/bl
 Run this command to automatically install addons:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/addon-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/LIONCLOUD11/blueprint/main/addon-installer.sh)
 ```
 
 ------------------------------------------------------------
@@ -84,9 +84,6 @@ GitHub Issues: **https://github.com/hopingboyz/blueprint/issues**
 ❤️ CREDITS
 ------------------------------------------------------------
 
-Developed by **Hopingboyz**  
-YouTube: https://youtube.com/@HopingBoyz  
-GitHub: https://github.com/hopingboyz  
 
 ------------------------------------------------------------
 ⭐ LIKE THIS PROJECT?
